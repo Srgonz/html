@@ -1,0 +1,67 @@
+p, span{
+    border: 1px solid red;
+}
+
+/*
+div{
+    margin: 20px;
+    padding: 10px;
+    margin-bottom: 50px;
+    border: 3px solid indigo;
+    background: #d5dbdb;
+}
+
+.static {
+position: static;
+}
+.relative1 {
+position: relative;
+height: 400px
+;
+}
+.relative2 {
+position: relative;
+top: 20px
+;
+left: 200px
+;
+border: 3px solid red;
+width: 300px
+;
+}
+.relative {
+position: relative;
+width: 600px
+;
+height: 400px
+;
+}
+.absolute {
+position: absolute;
+top: 120px
+;
+right: 0px
+;
+width: 300px
+;
+border: 3px solid red;
+}
+.fixed {
+position: fixed;
+bottom: 0px
+;
+right: 0px
+;
+max-width: 25rem
+;
+border: 3px solid red;
+}
+*/
+
+.sticky {
+position: sticky;
+top: 0px;
+left: 0px;
+border: 3px solid red;
+background: #d5dbdb;
+}

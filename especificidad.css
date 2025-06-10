@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+.title{
+    color: pink;
+}
+
+h1{
+    color: red;
+}

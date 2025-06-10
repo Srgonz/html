@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    color: indigo;
+    font-size: 16px;
+    padding: 2rem;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 12px
+}

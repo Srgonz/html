@@ -1,0 +1,39 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+/*
+.container{
+    width: 100%;
+    display:flex;
+}
+
+.element{
+    width: 100%;
+    padding: 20px;
+    height: 100px;
+    background-color: indigo;
+}
+
+@media (min-width: 768px){
+    .element{
+        width: 33%;
+        background-color: pink;
+    }
+} */
+
+.container{
+    display: grid;
+    gap: 1rem;
+    grid-auto-rows: 20rem;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+}

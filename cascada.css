@@ -1,0 +1,18 @@
+/*Regla 1*/
+
+h1{
+    color: red;
+}
+
+/*Regla 2*/
+
+#page-title{
+    color: blue;
+    color: green;
+}
+
+/*Regla 3*/
+
+.title{
+    color: purple;
+}
